@@ -16,3 +16,6 @@ https://commonvoice.mozilla.org/en/datasets Norwegian Dataset Nynorsk Common Voi
 Noise:
 https://www.kaggle.com/datasets/chrisfilo/demand
 https://zenodo.org/records/6687982
+
+v3 of the trained models were too big to include directly here, so here is a link:
+https://huggingface.co/JonRon/Denoiser/blob/main/waveunet_v3.keras
