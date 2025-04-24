@@ -5,3 +5,14 @@ Using the model:
 Unfortunatly I have not had the time to implement a good way to use the model that does not require a bit of legwork for you.
 Other better ways are no doubt also available.
 You will find this code at the bottom of the notebook.
+
+The notebook is otherwise usable in Google Colab, though you would obviously need to get the training data yourself and make the 
+necessary changes to access the files from google drive and so on.
+
+Data:
+This must be converted from mp3 to wav:
+https://commonvoice.mozilla.org/en/datasets Norwegian Dataset Nynorsk Common Voice Corpus 21.0
+
+Noise:
+https://www.kaggle.com/datasets/chrisfilo/demand
+https://zenodo.org/records/6687982
